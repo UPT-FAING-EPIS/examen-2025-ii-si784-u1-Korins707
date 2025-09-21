@@ -1,0 +1,6 @@
+@MiEcommerce_HostAddress = http://localhost:5012
+
+GET {{MiEcommerce_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
